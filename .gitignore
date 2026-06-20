@@ -1,0 +1,6 @@
+node_modules/
+vorsa.db
+*.db
+.env
+Solicitud Beca/
+~$*
